@@ -31,6 +31,19 @@ body, html {
   min-height: 400px;
 }
 
+.progress-container {
+  height: 8px;
+  background: black;
+  opacity: .75;
+  width: 100%;
+}
+
+.progress-bar {
+  height: 8px;
+  background: white;
+  width: 0%;
+}
+
 .w3-bar {
   width: 100%;
   overflow: hidden;
